@@ -27,6 +27,12 @@
 	    <version>6.1.0</version>
 	    <scope>provided</scope>
 	</dependency>
+	<!-- https://mvnrepository.com/artifact/org.eclipse.jetty/jetty-jndi -->
+	<dependency>
+	    <groupId>org.eclipse.jetty</groupId>
+	    <artifactId>jetty-jndi</artifactId>
+	    <version>12.0.18</version>
+	</dependency>
   </dependencies>
   <build>
     <finalName>meubanco</finalName>
